@@ -2,6 +2,6 @@
 **First noSQL-based database(Firebase) little chat App.**
 
 ##Other info
-I don't know what to expect :)
+Just chat away and delete the whole database if you like :)
 
-`https://github.com/Bokdem/firebase-chat.git`
+`https://github.com/Bokdem/firebased-chat.git`
